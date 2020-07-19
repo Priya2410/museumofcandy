@@ -36,3 +36,9 @@ h4{
 #ham{
 	color:white;
 }
+.figure-caption{
+    color:white;
+    font-size: 150%;
+    font-family: 'Luckiest Guy', cursive;
+    text-transform: capitalize;
+}
